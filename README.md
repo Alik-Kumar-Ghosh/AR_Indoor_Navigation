@@ -50,7 +50,7 @@ Click Open and launch
  
   <img width="20%" height="20%" src="Assets/Screenrecorded ARnav.gif"></img>
 
- <p><em>For POC this will navigate you to the lift area you can multiple locations as per you requirement.</em></p>
+ <p><em>For POC this will navigate you to the lift area, you can multiple locations as per your requirement.</em></p>
  
  ---
  
