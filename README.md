@@ -22,7 +22,7 @@ Our Indoor Navigation Unity Application not only simplifies the navigation exper
  ---
 
 
- <img width="57%" height="57%" src="Assets/Screenshot 2023-08-18 135950.png"></img>
+ <img width="60%" height="60%" src="Assets/Screenshot 2023-08-18 135950.png"></img>
  
 
 ---
