@@ -49,6 +49,8 @@ Click Open and launch
  ### ScreenCast
  
   <img width="20%" height="20%" src="Assets/Screenrecorded ARnav.gif"></img>
+
+ <p><em>For POC this will navigate you to the lift area you can multiple locations as per you requirement.</em></p>
  
  ---
  
