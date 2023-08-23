@@ -4,8 +4,7 @@ AR Indoor Navigation application for office.
 <img width="20%" height="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png"></img>
 
  ---
-Download Link
-
+<img width="40%" height="40%" src="Assets/AR scan download.gif"></img>
 <a href="https://github.com/Alik-Kumar-Ghosh/AR_Indoor_Navigation/releases/tag/build"> Download APK </a>
 
  ---
